@@ -20,7 +20,7 @@ Implementation of a cache buffer system that use doubly linked list using langua
 4. Clearing the buffer.
    - User can ask for clear the cache and stop the program.
 
-**Sample Inputs and Outputs**
+**Sample Inputs and Outputs:**
 
 ![](/images/input-1.png)
 
