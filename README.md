@@ -21,6 +21,7 @@ Implementation of a cache buffer system that use doubly linked list using langua
    - User can ask for clear the cache and stop the program.
 
 **Sample Inputs and Outputs**
+
 ![](/images/input-1.png)
 
 ![](/images/input-2.png)
